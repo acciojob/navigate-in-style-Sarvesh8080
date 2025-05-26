@@ -4,12 +4,12 @@
     }
 
     .navbar ul {
-      list-style: none; /* Removes bullets */
+      list-style: none;
       padding: 0;
       margin: 0;
     }
 
     .navbar li {
-      display: inline; /* Horizontal layout */
-      margin-right: 1rem; /* Space between items */
+      display: inline;
+      margin-right: 1rem;
     }
